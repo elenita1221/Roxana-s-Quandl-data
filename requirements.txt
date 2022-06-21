@@ -9,4 +9,4 @@ simplejson==3.8.2
 pandas==0.17.1
 bokeh==0.11.1
 Quandl==2.8.9
-numpy==1.10.4
+numpy==1.22.0
